@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India and B.Tech CSE student from University of Petroleum and Energy Studies, Dehradun</h3>
 
 - ⚡ Fun fact **I code for fun!!**
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anurag-singh2001&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/anuragsingh2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/anuragsingh2001" height="30" width="40" /></a>
