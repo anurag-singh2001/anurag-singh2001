@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">A passionate frontend developer from India and B.Tech CSE student from University of Petroleum and Energy Studies, Dehradun</h3>
+<h3 align="center">A passionate full stack developer from India and B.Tech CSE student from University of Petroleum and Energy Studies, Dehradun</h3>
 
 - ⚡ Fun fact **I code for fun!!**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anurag-singh2001&theme=monokai&hide_border=true)](https://git.io/streak-stats)
