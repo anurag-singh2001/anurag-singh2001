@@ -3,6 +3,7 @@
 
 - ⚡ Fun fact **I code for fun!!**
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anurag-singh2001&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-singh2001&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/anuragsingh2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/anuragsingh2001" height="30" width="40" /></a>
