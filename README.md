@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A passionate full stack developer from India and B.Tech CSE student from University of Petroleum and Energy Studies, Dehradun</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-singh&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-singh2001" /> </p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anurag-singh2001&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag-singh2001&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
